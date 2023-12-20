@@ -24,9 +24,9 @@ int main()
     char gd[50] = "комедия";
     for (i = 0; i < 3; i++)
     {
-        printf("Введите фильм");
+        printf("Введите фильмvvvvvvvvv ");
         scanf("%s", amount[i].title);
-        printf("Введите режиссераа фильма ");
+        printf("Введите режиссера фильма ");
         scanf("%s", amount[i].director);
         printf("Введите жанр фильма ");
         scanf("%s", amount[i].genre);

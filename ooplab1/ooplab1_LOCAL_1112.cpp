@@ -26,7 +26,7 @@ int main()
     {
         printf("Введите фильм");
         scanf("%s", amount[i].title);
-        printf("Введите режиссераа фильма ");
+        printf("Введите режиссера фильма ");
         scanf("%s", amount[i].director);
         printf("Введите жанр фильма ");
         scanf("%s", amount[i].genre);
